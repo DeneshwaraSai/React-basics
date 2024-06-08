@@ -1,0 +1,4 @@
+There are 3 ways to create a context
+1) Create a context
+2) Provide a context value 
+3) Consume the context value
