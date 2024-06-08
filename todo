@@ -1,0 +1,16 @@
+JavaScript - 'this' keyword, filter, map and reduce
+ES6 - let & const, arrow functions, template literals, default parameters, object literals, rest and
+spread operators and destructuring assignment.
+
+sudo npx --yes vscode-bisect@latest
+
+netstat -vanp tcp | grep 3000
+lsof -i tcp:3000
+
+
+
+/Users/denesh/Desktop/IIT Chicago/Sem 1/CC/Key pairs/KP_JAN_31.pem
+
+sudo chmod -R g+rwX - When getting permission issues, use this
+
+https://www.youtube.com/watch?v=IathdVB65Lw - dashboard  
