@@ -14,3 +14,10 @@ lsof -i tcp:3000
 sudo chmod -R g+rwX - When getting permission issues, use this
 
 https://www.youtube.com/watch?v=IathdVB65Lw - dashboard  
+
+sudo npx create-react-app react-redux
+sudo chmod -R g+rwX 
+sudo chown -R denesh react-redux
+
+lsof -i tcp:3000
+kill -9 14684
